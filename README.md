@@ -1,4 +1,4 @@
-👋 <h1>Hey, I’m Deepanshu</h1>
+<h1>👋 Hey, I’m Deepanshu</h1>
 
 A Cloud & DevOps–focused engineer building real, deployable infrastructure using AWS, Terraform, and Linux.
 
