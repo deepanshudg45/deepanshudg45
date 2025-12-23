@@ -1,8 +1,8 @@
-👋 #Hey, I’m Deepanshu
+👋 <h1>Hey, I’m Deepanshu</h1>
 
 A Cloud & DevOps–focused engineer building real, deployable infrastructure using AWS, Terraform, and Linux.
 
-🔧 **What I Do**  
+🔧 *What I Do*  
 I work on hands-on Cloud and DevOps systems with a strong focus on infrastructure, automation, and production-like environments rather than theory or certificate collecting.
 
 📚 **What I’m Learning**  
