@@ -1,22 +1,33 @@
-# About Me
+<h1>👋 Hey, I’m Deepanshu</h1>
 
-## What I Do  
-I build real, deployable Cloud and DevOps infrastructure using AWS, Terraform, and Linux, focusing on hands-on systems rather than theory or certificate collecting.
+<p>
+A Cloud & DevOps–focused engineer building real, deployable infrastructure using AWS, Terraform, and Linux.
+</p>
 
-## What I’m Learning  
-Deepening my understanding of AWS core services, Terraform, Linux internals, networking fundamentals, and Python for DevOps-focused scripting and automation.
+<h2>🔧 What I Do</h2>
+<sub>
+I work on hands-on Cloud and DevOps systems with a strong focus on infrastructure, automation, and production-like environments rather than theory or certificate collecting.
+</sub>
 
-## What I’m Open To  
-Collaborating on beginner to intermediate Cloud/DevOps projects involving CI/CD pipelines, Infrastructure as Code, automation, monitoring, and production-like environments.
+<h2>📚 What I’m Learning</h2>
+<sub>
+AWS core services (in depth), Terraform, Linux internals, networking fundamentals, and Python for DevOps-focused scripting and automation.
+</sub>
 
-## Ask Me About  
+<h2>🤝 What I’m Open To</h2>
+<sub>
+Collaborating on beginner to intermediate Cloud/DevOps projects involving CI/CD pipelines, Infrastructure as Code, automation, monitoring, and real-world setups.
+</sub>
+
+<h2>💬 Ask Me About</h2>
+<sub>
 Transitioning from Web Development to Cloud, AWS fundamentals, Terraform basics, Linux fundamentals, or building clean static sites.
+</sub>
 
-## Fun Fact  
+<h2>⚡ Fun Fact</h2>
+<sub>
 I prefer understanding systems deeply over learning tools quickly.
-
-
-
+</sub>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deep-gahatori23/) 
