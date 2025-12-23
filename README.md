@@ -1,33 +1,21 @@
-<h1>👋 Hey, I’m Deepanshu</h1>
+👋 **Hey, I’m Deepanshu**
 
-<p>
 A Cloud & DevOps–focused engineer building real, deployable infrastructure using AWS, Terraform, and Linux.
-</p>
 
-<h2>🔧 What I Do</h2>
-<p>
+🔧 **What I Do**  
 I work on hands-on Cloud and DevOps systems with a strong focus on infrastructure, automation, and production-like environments rather than theory or certificate collecting.
-</p>
 
-<h2>📚 What I’m Learning</h2>
-<p>
+📚 **What I’m Learning**  
 AWS core services (in depth), Terraform, Linux internals, networking fundamentals, and Python for DevOps-focused scripting and automation.
-</p>
 
-<h2>🤝 What I’m Open To</h2>
-<p>
+🤝 **What I’m Open To**  
 Collaborating on beginner to intermediate Cloud/DevOps projects involving CI/CD pipelines, Infrastructure as Code, automation, monitoring, and real-world setups.
-</p>
 
-<h2>💬 Ask Me About</h2>
-<p>
+💬 **Ask Me About**  
 Transitioning from Web Development to Cloud, AWS fundamentals, Terraform basics, Linux fundamentals, or building clean static sites.
-</p>
 
-<h2>⚡ Fun Fact</h2>
-<p>
+⚡ **Fun Fact**  
 I prefer understanding systems deeply over learning tools quickly.
-</p>
 
 
 # 🌐 Socials:
