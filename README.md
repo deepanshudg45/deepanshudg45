@@ -1,19 +1,20 @@
 # About Me
 
-## What I Do
-I build real, deployable Cloud and DevOps infrastructure using AWS, Terraform, and Linux, with a strong focus on hands-on systems rather than theory or certificate collecting.
+## What I Do  
+I build real, deployable Cloud and DevOps infrastructure using AWS, Terraform, and Linux, focusing on hands-on systems rather than theory or certificate collecting.
 
-## What I’m Learning
+## What I’m Learning  
 Deepening my understanding of AWS core services, Terraform, Linux internals, networking fundamentals, and Python for DevOps-focused scripting and automation.
 
-## What I’m Open To
+## What I’m Open To  
 Collaborating on beginner to intermediate Cloud/DevOps projects involving CI/CD pipelines, Infrastructure as Code, automation, monitoring, and production-like environments.
 
-## Ask Me About
+## Ask Me About  
 Transitioning from Web Development to Cloud, AWS fundamentals, Terraform basics, Linux fundamentals, or building clean static sites.
 
-## Fun Fact
+## Fun Fact  
 I prefer understanding systems deeply over learning tools quickly.
+
 
 
 
