@@ -5,31 +5,32 @@ A Cloud & DevOps–focused engineer building real, deployable infrastructure usi
 </p>
 
 <h2>🔧 What I Do</h2>
-<sub>
+<p>
 I work on hands-on Cloud and DevOps systems with a strong focus on infrastructure, automation, and production-like environments rather than theory or certificate collecting.
-</sub>
+</p>
 
 <h2>📚 What I’m Learning</h2>
-<sub>
+<p>
 AWS core services (in depth), Terraform, Linux internals, networking fundamentals, and Python for DevOps-focused scripting and automation.
-</sub>
+</p>
 
 <h2>🤝 What I’m Open To</h2>
-<sub>
+<p>
 Collaborating on beginner to intermediate Cloud/DevOps projects involving CI/CD pipelines, Infrastructure as Code, automation, monitoring, and real-world setups.
-</sub>
+</p>
 
 <h2>💬 Ask Me About</h2>
-<sub>
+<p>
 Transitioning from Web Development to Cloud, AWS fundamentals, Terraform basics, Linux fundamentals, or building clean static sites.
-</sub>
+</p>
 
 <h2>⚡ Fun Fact</h2>
-<sub>
+<p>
 I prefer understanding systems deeply over learning tools quickly.
-</sub>
+</p>
 
-## 🌐 Socials:
+
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deep-gahatori23/) 
 
 # 💻 Tech Stack:
